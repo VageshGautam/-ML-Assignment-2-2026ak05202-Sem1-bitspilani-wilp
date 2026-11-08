@@ -45,9 +45,9 @@ The models are fitted on training data only. All reported evaluation results mus
 
 ## 3. GitHub Repository Link
 
-**Public GitHub repository:** https://github.com/VageshGautam/-ML-Assignment-2-2026ak05202-Sem1-bitspilani-wilp.git
+**Public GitHub repository:** 
 
-**Live Streamlit application:** http://192.168.1.14:8501
+**Live Streamlit application:** [http://192.168.1.14:8501](https://yvgzag8ecm59jlplc4yhii.streamlit.app/)
 
 The GitHub repository contains the source code, `requirements.txt`, this `README.md`, `test_data.csv`, and five trained model files in the `model/` directory.
 
