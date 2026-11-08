@@ -6,8 +6,6 @@
 **Student name:** VAGESH GAUTAM  
 **Roll number:** 2026AK
 
-> **Before submission:** Replace all text in `[SQUARE BRACKETS]` with your own details and *actual* experimental results from `model_comparison.csv`. The comparison scores and observations are intentionally left unfilled because they must match the results of your own execution.
-
 ## 1. Problem Statement
 
 The objective of this project is to build, evaluate, and compare five supervised machine-learning algorithms for a binary classification problem. The chosen task is to classify diagnostic observations in the **Breast Cancer Wisconsin (Diagnostic)** dataset as benign or malignant using numerical measurements derived from cell nuclei.
@@ -47,7 +45,7 @@ The models are fitted on training data only. All reported evaluation results mus
 
 ## 3. GitHub Repository Link
 
-**Public GitHub repository:** 
+**Public GitHub repository:** https://github.com/VageshGautam/-ML-Assignment-2-2026ak05202-Sem1-bitspilani-wilp.git
 
 **Live Streamlit application:** http://192.168.1.14:8501
 
